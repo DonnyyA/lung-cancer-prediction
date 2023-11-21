@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning
+# Machine Learning
 ### Nama : Doni Arafat
 ### Team : Boba Hacker
 
