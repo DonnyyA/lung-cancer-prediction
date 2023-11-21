@@ -1,11 +1,10 @@
 # Laporan Proyek Machine Learning
 ### Nama : Doni Arafat
-### Nim : 211351049
-### Kelas : Malam B
+### Team : Boba Hacker
 
 ## Domain Proyek
 
-Web App yang saya kembangkan ini boleh digunakan oleh siapapun yang membutuhkan. Hasil dari web app ini digunakan untuk mengidentifikasi apakah anda mengidap kanker paru-paru dengan menganalisa semua simtom-simtom yang sedang anda alami. Setelah mendapatkan hasil sebaiknya anda secepatnya pergi pada seorang profesional untuk diagnosa lebih lanjut dan melakukan pengobatan.
+Web App yang saya kembangkan ini boleh digunakan oleh siapapun yang membutuhkan. Hasil dari web app ini digunakan untuk mengidentifikasi apakah anda mengidap kanker paru-paru dengan menganalisa semua simptom-simptom yang sedang anda alami. Setelah mendapatkan hasil sebaiknya anda secepatnya pergi pada seorang profesional untuk diagnosa lebih lanjut dan melakukan pengobatan.
 
 ## Business Understanding
 
