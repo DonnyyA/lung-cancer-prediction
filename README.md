@@ -1,6 +1,7 @@
 # Machine Learning
-### Nama : Doni Arafat
-### Team : Boba Hacker
+### Nama  : Doni Arafat
+### Nim   : 211351049
+### Kelas : Malam B
 
 ## Domain Proyek
 
