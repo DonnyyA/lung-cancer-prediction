@@ -1,7 +1,7 @@
 # Machine Learning
 ### Nama  : Doni Arafat
-### Nim   : 211351049
-### Kelas : Malam B
+### Occ   : Employee & Software Engineer
+
 
 ## Domain Proyek
 
